@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishehdhaladhuli&show_icons=true&locale=en&layout=compact" alt="abhishehdhaladhuli" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishehdhaladhuli&show_icons=true&locale=en" alt="abhishehdhaladhuli" /></p>
-
-Based on this give me good Readme like the above screenshot I have showed
