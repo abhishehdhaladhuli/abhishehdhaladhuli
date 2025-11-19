@@ -1,91 +1,32 @@
-<h1 align="center">Hi, I'm Dhaladhuli Abhishek 👋</h1>
-<h3 align="center">AI/ML Enthusiast | Full-Stack Developer | Passionate Learner</h3>
+<h1 align="center">Hi 👋, I'm Dhaladhuli Abhishek</h1>
+<h3 align="center">A passionate frontend developer from India.Developed strong data analysis and machine learning skills in a collaborative, fast-paced environment, leveraging complex datasets to extract actionable insights.</h3>
 
-<p align="center">
-  <img src="https://i.ibb.co/8cmfYpP/coding-illustration.png" alt="coding" width="300"/>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishehdhaladhuli&label=Profile%20views&color=0e75b6&style=flat" alt="abhishehdhaladhuli" /> </p>
 
----
 
-## 🚀 About Me
-🎓 B.Tech CSE student passionate about building real-world AI/ML and full-stack applications  
-💡 Love solving problems using Machine Learning, RAG, and Data Engineering  
-🌱 Currently learning **Django, LangChain, RAG-based Search Systems**  
-🧠 Interested in: AI Systems, LLM Apps, Distributed Systems, Full-stack Development  
-📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/abhishek-dhaladhuli-18b3a62a3/)**  
-💼 Portfolio / Projects: **[GitHub Profile](https://github.com/abhishehdhaladhuli)**  
-📄 Resume: **[View Resume](https://drive.google.com/file/d/1qWuLIQQ4hEJyeHJ32VC-blN0K7Vq4lAA/view?usp=drive_link)**  
 
----
+- 🌱 I’m currently learning **Django,Langchain,RAG**
 
-## 🛠️ Tech Stack
+- 👨‍💻 All of my projects are available at [https://github.com/abhishehdhaladhuli](https://github.com/abhishehdhaladhuli)
 
-### **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,go,js" />
-</p>
+- 💬 Ask me about **AI and ML**
 
-### **Web Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
+- 📫 How to reach me **https://www.linkedin.com/in/abhishek-dhaladhuli-18b3a62a3/**
 
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
-</p>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qWuLIQQ4hEJyeHJ32VC-blN0K7Vq4lAA/view?usp=drive_link](https://drive.google.com/file/d/1qWuLIQQ4hEJyeHJ32VC-blN0K7Vq4lAA/view?usp=drive_link)
 
-### **AI / ML**
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
-</p>
-
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
-
----
-
-## 🌐 Connect With Me
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-dhaladhuli-18b3a62a3/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-<a href="https://www.kaggle.com/abhishekdhaladhuli" target="_blank">
-  <img src="https://skillicons.dev/icons?i=kaggle" width="45"/>
-</a>
-<a href="https://www.hackerrank.com/profile/abhishekdhaladh1" target="_blank">
-  <img src="https://skillicons.dev/icons?i=hackerrank" width="45"/>
-</a>
+<a href="https://www.linkedin.com/in/abhishek-dhaladhuli-18b3a62a3/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-dhaladhuli-18b3a62a3/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/abhishekdhaladhuli" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhishekdhaladhuli" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/abhishekdhaladh1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhishekdhaladh1" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhishehdhaladhuli&show_icons=true&theme=radical" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishehdhaladhuli&layout=compact&theme=radical" height="180" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishehdhaladhuli&show_icons=true&locale=en&layout=compact" alt="abhishehdhaladhuli" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishehdhaladhuli&show_icons=true&locale=en" alt="abhishehdhaladhuli" /></p>
 
-## 🏆 GitHub Contributions
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishehdhaladhuli&theme=radical" height="200"/>
-</p>
-
----
-
-## ✨ Fun Facts
-- 💭 I enjoy building AI apps that actually solve real-life problems  
-- 📚 I love learning new tech every day  
-- 🚀 Passionate about ML, full-stack dev, and scalable systems  
-
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**
+Based on this give me good Readme like the above screenshot I have showed
